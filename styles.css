@@ -1,0 +1,202 @@
+
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url(home.png) ;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.bt{
+  color: #FFF9F9;
+  margin-top: 0;
+}
+.hom{
+  position:absolute;
+}
+.s1{
+  width: 250px;
+  height: 253.03px; 
+  right: 10px; 
+  top: 0px; 
+  position: absolute;
+}
+.s2{
+  width: 250px;
+  height: 253.03px; 
+  left: 35px; 
+  top: 1px; 
+  position: absolute; 
+  transform-origin: 0 0;
+}
+.hate{
+  right: 66px; 
+  top: 86px; 
+  position: absolute; 
+  color: black;
+  font-size: 60px; 
+  font-family: Bradley Hand ITC; 
+  font-weight: 400; 
+  word-wrap: break-word; 
+}
+.like{
+  left: 87px;
+  top: 86px; 
+  position: absolute; 
+  color: black; 
+  font-size: 60px; 
+  font-family: Bradley Hand ITC; 
+  font-weight: 400; 
+  word-wrap: break-word;
+}
+.text{
+  text-align: center;
+  color: white; 
+  font-size: 30px; 
+  font-family: Bradley Hand ITC; 
+  font-weight: 400; 
+  word-wrap: break-word;
+  transform: translate(0%,-15%);
+  background: rgba(255,255,255,.2);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+  margin-top: 41%;
+  padding-right: 4pc;
+  padding-left: 4pc;
+  padding-top: .1pc;
+  height: 12pc;
+  line-height: 1.8pc;
+}
+.sq{
+  background: rgba(255,255,255,.2);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+  margin-top: 20%;
+  height: 10pc;
+}
+.cont{
+  background-image: url(starry-sky.png);
+  background-size: cover;
+  width: 100%; 
+  height: 100%;
+  position: relative;
+
+}
+.sec3{
+  background-color: rgb(152, 184, 212);
+  color: #0C1128; 
+  font-size: 2rem; 
+  font-family: Bradley Hand ITC;  
+  font-weight: 400; 
+  word-wrap: break-word;
+  width: 35pc;
+  height: 15pc;
+  margin-left: 1pc;
+}
+.sec4{
+  background-color: rgb(152, 184, 212);
+  color: #0C1128; 
+  font-size:2rem;
+  font-family: Bradley Hand ITC; 
+  font-weight: 400; 
+  word-wrap: break-word;
+  width: 35pc;
+  height: 15pc;
+  margin-left: 1pc;
+  margin-top:-17.3pc;
+  margin-left:43pc ;
+}
+.anya{
+  position: relative;
+  mix-blend-mode: darken; 
+  border-radius: 68px;
+  height: 15pc;
+  float: right;
+  margin-top:-11pc;
+}
+h1{
+  text-align: center; 
+  color: #0C1128; 
+  font-size: 150px; 
+  font-family: Kristi; 
+  font-weight: 400; 
+  word-wrap: break-word;
+  margin: 0;
+  padding-top: 6pc;
+}
+.img1{
+  width: 16.5pc;
+  border-radius: 90%;
+  height: 15pc;
+  box-shadow: rgba(5, 5, 5, 0.35) 0px 5px 15px;
+}
+.img2{
+  width: 16.5pc;
+  border-radius: 60%;
+  height: 15pc;
+  box-shadow: rgba(5, 5, 5, 0.35) 0px 5px 15px;
+}
+.img3{
+  width: 16.5pc;
+  border-radius: 60%;
+  height: 15pc;
+  box-shadow: rgba(5, 5, 5, 0.35) 0px 5px 15px;
+ }
+ .img4{
+  position: relative;
+  width: 16.5pc;
+  border-radius: 60%;
+  box-shadow: rgba(5, 5, 5, 0.35) 0px 5px 15px;
+  height: 15pc;
+}
+.img{
+  margin: 2pc;
+}
+.img5{
+  position: relative;
+  width: 16.5pc;
+  height: 15pc;
+  margin-top: 5pc;
+  margin-left: 3pc;
+} 
+.img6{
+  position: relative;
+  width: 16.5pc;
+  height: 15pc;
+ } 
+.six{
+  margin-left: 50%;
+  margin-top: 3pc;
+  }
+.img7{
+  position: relative;
+  width: 16.5pc;
+  height: 15pc;
+}
+.sev{
+  margin-left: 3pc;
+}
+.sec2{
+  color: #0C1128; 
+  font-size:2rem;
+  font-weight: 400; 
+  word-wrap: break-word;
+  width: 35pc;
+  height: 15pc;
+  float: right;
+  font-family: Bradley Hand ITC; 
+  margin-top: -24pc;
+  margin-right: 3pc;
+  text-align: left;
+  text-align: justify;
+  text-justify: inter-word;
+}
+.tenor-gif-embed{
+  width: 16.5pc;
+  height: 15pc ;
+  mix-blend-mode: darken; 
+    
+}
+.sec1{
+  margin-left: 1pc;
+  width: 50%;
+  height: 100%;
+}
