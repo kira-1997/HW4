@@ -2,6 +2,10 @@
 body{
   margin: 0;
   padding: 0;
+}
+.bd{
+  margin: 0;
+  padding: 0;
   background-image: url(home.png) ;
   background-size: cover;
   background-repeat: no-repeat;
@@ -77,8 +81,6 @@ body{
   background-size: cover;
   width: 100%; 
   height: 100%;
-  position: relative;
-
 }
 .sec3{
   background-color: rgb(152, 184, 212);
@@ -113,14 +115,18 @@ body{
   margin-top:-11pc;
 }
 h1{
+  position: relative;
   text-align: center; 
-  color: #0C1128; 
+  color: #f8f7f4; 
   font-size: 150px; 
   font-family: Kristi; 
   font-weight: 400; 
   word-wrap: break-word;
-  margin: 0;
-  padding-top: 6pc;
+  padding-top: 10pc;
+}
+.k{
+padding-top: 0;
+margin-top: 0;
 }
 .img1{
   width: 16.5pc;
@@ -175,6 +181,7 @@ h1{
   margin-left: 3pc;
 }
 .sec2{
+  position: relative;
   color: #0C1128; 
   font-size:2rem;
   font-weight: 400; 
@@ -183,7 +190,7 @@ h1{
   height: 15pc;
   float: right;
   font-family: Bradley Hand ITC; 
-  margin-top: -24pc;
+  margin-top: -47pc;
   margin-right: 3pc;
   text-align: left;
   text-align: justify;
